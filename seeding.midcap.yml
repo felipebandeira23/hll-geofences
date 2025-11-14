@@ -1,7 +1,7 @@
 Servers:
-    - Host: 1.1.1.1 #GAMESERVER IP
-      Port: 123456 # RCON PORT
-      Password: abcdef # RCON PASSWORD
+    - Host: 92.38.151.86
+      Port: 29416
+      Password: f2975ca
       PunishAfterSeconds: 10
       AxisFence:
         - X: A
@@ -18,11 +18,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 2
           Condition:
@@ -37,11 +37,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 2
           Condition:
@@ -56,11 +56,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 2
           Condition:
@@ -75,11 +75,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 2
           Condition:
@@ -94,11 +94,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 2
           Condition:
@@ -113,11 +113,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 2
           Condition:
@@ -132,11 +132,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 2
           Condition:
@@ -151,11 +151,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 2
           Condition:
@@ -170,11 +170,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 2
           Condition:
@@ -189,11 +189,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 9
           Condition:
@@ -208,11 +208,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 9
           Condition:
@@ -227,11 +227,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 9
           Condition:
@@ -246,11 +246,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 9
           Condition:
@@ -265,11 +265,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 9
           Condition:
@@ -284,11 +284,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 9
           Condition:
@@ -303,11 +303,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 9
           Condition:
@@ -322,11 +322,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 9
           Condition:
@@ -341,11 +341,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 9
           Condition:
@@ -360,11 +360,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 9
           Condition:
@@ -379,11 +379,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 1
           Condition:
@@ -400,7 +400,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 2
           Condition:
@@ -417,7 +417,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 3
           Condition:
@@ -434,7 +434,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 4
           Condition:
@@ -451,7 +451,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 5
           Condition:
@@ -468,7 +468,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 6
           Condition:
@@ -485,7 +485,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 7
           Condition:
@@ -502,7 +502,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 8
           Condition:
@@ -519,7 +519,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 9
           Condition:
@@ -536,7 +536,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 10
           Condition:
@@ -553,7 +553,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 1
           Condition:
@@ -576,7 +576,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 2
           Condition:
@@ -593,7 +593,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 3
           Condition:
@@ -610,7 +610,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 4
           Condition:
@@ -627,7 +627,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 5
           Condition:
@@ -644,7 +644,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 6
           Condition:
@@ -661,7 +661,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 7
           Condition:
@@ -678,7 +678,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 8
           Condition:
@@ -695,7 +695,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 9
           Condition:
@@ -712,7 +712,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 10
           Condition:
@@ -729,7 +729,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 1
           Condition:
@@ -741,7 +741,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 2
           Condition:
@@ -753,7 +753,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 3
           Condition:
@@ -765,7 +765,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 4
           Condition:
@@ -777,7 +777,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 5
           Condition:
@@ -789,7 +789,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 6
           Condition:
@@ -801,7 +801,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 10
           Condition:
@@ -813,7 +813,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 1
           Condition:
@@ -825,7 +825,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 2
           Condition:
@@ -837,7 +837,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 3
           Condition:
@@ -849,7 +849,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 4
           Condition:
@@ -861,7 +861,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 5
           Condition:
@@ -873,7 +873,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 6
           Condition:
@@ -885,7 +885,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 10
           Condition:
@@ -897,7 +897,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 1
           Condition:
@@ -909,7 +909,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 2
           Condition:
@@ -921,7 +921,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 3
           Condition:
@@ -933,7 +933,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 4
           Condition:
@@ -945,7 +945,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -957,7 +957,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -969,7 +969,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 10
           Condition:
@@ -981,7 +981,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 1
           Condition:
@@ -993,7 +993,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 2
           Condition:
@@ -1005,7 +1005,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 3
           Condition:
@@ -1017,7 +1017,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 4
           Condition:
@@ -1029,7 +1029,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -1041,7 +1041,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -1053,7 +1053,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 10
           Condition:
@@ -1065,7 +1065,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 1
           Condition:
@@ -1077,7 +1077,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 2
           Condition:
@@ -1089,7 +1089,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 3
           Condition:
@@ -1101,7 +1101,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 4
           Condition:
@@ -1113,7 +1113,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 5
           Condition:
@@ -1125,7 +1125,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 6
           Condition:
@@ -1137,7 +1137,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 10
           Condition:
@@ -1149,7 +1149,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 1
           Condition:
@@ -1161,7 +1161,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 2
           Condition:
@@ -1173,7 +1173,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 3
           Condition:
@@ -1185,7 +1185,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 4
           Condition:
@@ -1197,7 +1197,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 5
           Condition:
@@ -1209,7 +1209,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 6
           Condition:
@@ -1221,7 +1221,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 10
           Condition:
@@ -1233,7 +1233,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 3
           Condition:
@@ -1242,11 +1242,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 4
           Condition:
@@ -1255,11 +1255,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 5
           Condition:
@@ -1268,11 +1268,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 6
           Condition:
@@ -1281,11 +1281,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 7
           Condition:
@@ -1294,11 +1294,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 8
           Condition:
@@ -1307,11 +1307,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 3
           Condition:
@@ -1320,11 +1320,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 4
           Condition:
@@ -1333,11 +1333,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 5
           Condition:
@@ -1346,11 +1346,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 6
           Condition:
@@ -1359,11 +1359,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 7
           Condition:
@@ -1372,11 +1372,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 8
           Condition:
@@ -1385,11 +1385,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 3
           Condition:
@@ -1398,11 +1398,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 4
           Condition:
@@ -1411,11 +1411,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 5
           Condition:
@@ -1424,11 +1424,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 6
           Condition:
@@ -1437,11 +1437,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 7
           Condition:
@@ -1450,11 +1450,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 8
           Condition:
@@ -1463,11 +1463,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 3
           Condition:
@@ -1476,11 +1476,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 4
           Condition:
@@ -1489,11 +1489,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 5
           Condition:
@@ -1502,11 +1502,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 6
           Condition:
@@ -1515,11 +1515,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 7
           Condition:
@@ -1528,11 +1528,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 8
           Condition:
@@ -1541,11 +1541,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 3
           Condition:
@@ -1554,11 +1554,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 4
           Condition:
@@ -1567,11 +1567,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -1580,11 +1580,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -1593,11 +1593,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 7
           Condition:
@@ -1606,11 +1606,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 8
           Condition:
@@ -1619,11 +1619,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 3
           Condition:
@@ -1632,11 +1632,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 4
           Condition:
@@ -1645,11 +1645,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -1658,11 +1658,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -1671,11 +1671,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 7
           Condition:
@@ -1684,11 +1684,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 8
           Condition:
@@ -1697,11 +1697,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 3
           Condition:
@@ -1710,11 +1710,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 4
           Condition:
@@ -1723,11 +1723,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 5
           Condition:
@@ -1736,11 +1736,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 6
           Condition:
@@ -1749,11 +1749,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 7
           Condition:
@@ -1762,11 +1762,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 8
           Condition:
@@ -1775,11 +1775,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 3
           Condition:
@@ -1794,7 +1794,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 4
           Condition:
@@ -1809,7 +1809,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 5
           Condition:
@@ -1824,7 +1824,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 6
           Condition:
@@ -1839,7 +1839,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 7
           Condition:
@@ -1854,7 +1854,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 8
           Condition:
@@ -1869,7 +1869,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 3
           Condition:
@@ -1884,7 +1884,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 4
           Condition:
@@ -1899,7 +1899,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 5
           Condition:
@@ -1914,7 +1914,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 6
           Condition:
@@ -1929,7 +1929,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 7
           Condition:
@@ -1944,7 +1944,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 8
           Condition:
@@ -1959,7 +1959,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 3
           Condition:
@@ -1974,7 +1974,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 4
           Condition:
@@ -1989,7 +1989,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 5
           Condition:
@@ -2004,7 +2004,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 6
           Condition:
@@ -2019,7 +2019,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 7
           Condition:
@@ -2034,7 +2034,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 8
           Condition:
@@ -2049,7 +2049,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 3
           Condition:
@@ -2064,7 +2064,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 4
           Condition:
@@ -2079,7 +2079,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 5
           Condition:
@@ -2094,7 +2094,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 6
           Condition:
@@ -2109,7 +2109,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 7
           Condition:
@@ -2124,7 +2124,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 8
           Condition:
@@ -2139,7 +2139,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 3
           Condition:
@@ -2154,7 +2154,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 4
           Condition:
@@ -2169,7 +2169,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -2184,7 +2184,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -2199,7 +2199,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 7
           Condition:
@@ -2214,7 +2214,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 8
           Condition:
@@ -2229,7 +2229,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 3
           Condition:
@@ -2244,7 +2244,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 4
           Condition:
@@ -2259,7 +2259,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -2274,7 +2274,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -2289,7 +2289,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 7
           Condition:
@@ -2304,7 +2304,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 8
           Condition:
@@ -2319,7 +2319,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 3
           Condition:
@@ -2334,7 +2334,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 4
           Condition:
@@ -2349,7 +2349,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 5
           Condition:
@@ -2364,7 +2364,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 6
           Condition:
@@ -2379,7 +2379,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 7
           Condition:
@@ -2394,7 +2394,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 8
           Condition:
@@ -2409,7 +2409,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 1
           Condition:
@@ -2423,7 +2423,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 10
           Condition:
@@ -2437,7 +2437,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 9
           Condition:
@@ -2451,7 +2451,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 8
           Condition:
@@ -2465,7 +2465,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 7
           Condition:
@@ -2479,7 +2479,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 6
           Condition:
@@ -2493,7 +2493,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 5
           Condition:
@@ -2507,7 +2507,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 1
           Condition:
@@ -2521,7 +2521,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 10
           Condition:
@@ -2535,7 +2535,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 9
           Condition:
@@ -2549,7 +2549,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 8
           Condition:
@@ -2563,7 +2563,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 7
           Condition:
@@ -2577,7 +2577,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 6
           Condition:
@@ -2591,7 +2591,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 5
           Condition:
@@ -2605,7 +2605,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 1
           Condition:
@@ -2619,7 +2619,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 10
           Condition:
@@ -2633,7 +2633,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 9
           Condition:
@@ -2647,7 +2647,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 8
           Condition:
@@ -2661,7 +2661,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 7
           Condition:
@@ -2675,7 +2675,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -2689,7 +2689,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -2703,7 +2703,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 1
           Condition:
@@ -2717,7 +2717,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 10
           Condition:
@@ -2731,7 +2731,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 9
           Condition:
@@ -2745,7 +2745,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 8
           Condition:
@@ -2759,7 +2759,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 7
           Condition:
@@ -2773,7 +2773,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -2787,7 +2787,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -2801,7 +2801,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 1
           Condition:
@@ -2815,7 +2815,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 10
           Condition:
@@ -2829,7 +2829,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 9
           Condition:
@@ -2843,7 +2843,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 8
           Condition:
@@ -2857,7 +2857,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 7
           Condition:
@@ -2871,7 +2871,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 6
           Condition:
@@ -2885,7 +2885,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 5
           Condition:
@@ -2899,7 +2899,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 1
           Condition:
@@ -2913,7 +2913,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 10
           Condition:
@@ -2927,7 +2927,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 9
           Condition:
@@ -2941,7 +2941,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 8
           Condition:
@@ -2955,7 +2955,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 7
           Condition:
@@ -2969,7 +2969,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 6
           Condition:
@@ -2983,7 +2983,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 5
           Condition:
@@ -2997,7 +2997,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
       AlliesFence:
         - X: A
           "Y": 2
@@ -3013,11 +3013,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 2
           Condition:
@@ -3032,11 +3032,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 2
           Condition:
@@ -3051,11 +3051,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 2
           Condition:
@@ -3070,11 +3070,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 2
           Condition:
@@ -3089,11 +3089,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 2
           Condition:
@@ -3108,11 +3108,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 2
           Condition:
@@ -3127,11 +3127,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 2
           Condition:
@@ -3146,11 +3146,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 2
           Condition:
@@ -3165,11 +3165,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 2
           Condition:
@@ -3184,11 +3184,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 9
           Condition:
@@ -3203,11 +3203,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 9
           Condition:
@@ -3222,11 +3222,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 9
           Condition:
@@ -3241,11 +3241,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 9
           Condition:
@@ -3260,11 +3260,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 9
           Condition:
@@ -3279,11 +3279,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 9
           Condition:
@@ -3298,11 +3298,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 9
           Condition:
@@ -3317,11 +3317,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 9
           Condition:
@@ -3336,11 +3336,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 9
           Condition:
@@ -3355,11 +3355,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 9
           Condition:
@@ -3374,11 +3374,11 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 1
           Condition:
@@ -3395,7 +3395,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 2
           Condition:
@@ -3412,7 +3412,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 3
           Condition:
@@ -3429,7 +3429,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 4
           Condition:
@@ -3446,7 +3446,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 5
           Condition:
@@ -3463,7 +3463,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 6
           Condition:
@@ -3480,7 +3480,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 7
           Condition:
@@ -3497,7 +3497,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 8
           Condition:
@@ -3514,7 +3514,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 9
           Condition:
@@ -3531,7 +3531,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 10
           Condition:
@@ -3548,7 +3548,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 1
           Condition:
@@ -3571,7 +3571,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 2
           Condition:
@@ -3588,7 +3588,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 3
           Condition:
@@ -3605,7 +3605,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 4
           Condition:
@@ -3622,7 +3622,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 5
           Condition:
@@ -3639,7 +3639,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 6
           Condition:
@@ -3656,7 +3656,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 7
           Condition:
@@ -3673,7 +3673,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 8
           Condition:
@@ -3690,7 +3690,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 9
           Condition:
@@ -3707,7 +3707,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 10
           Condition:
@@ -3724,7 +3724,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 1
           Condition:
@@ -3736,7 +3736,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 10
           Condition:
@@ -3748,7 +3748,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 9
           Condition:
@@ -3760,7 +3760,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 8
           Condition:
@@ -3772,7 +3772,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 7
           Condition:
@@ -3784,7 +3784,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 6
           Condition:
@@ -3796,7 +3796,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 5
           Condition:
@@ -3808,7 +3808,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 1
           Condition:
@@ -3820,7 +3820,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 10
           Condition:
@@ -3832,7 +3832,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 9
           Condition:
@@ -3844,7 +3844,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 8
           Condition:
@@ -3856,7 +3856,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 7
           Condition:
@@ -3868,7 +3868,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 6
           Condition:
@@ -3880,7 +3880,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 5
           Condition:
@@ -3892,7 +3892,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 1
           Condition:
@@ -3904,7 +3904,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 10
           Condition:
@@ -3916,7 +3916,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 9
           Condition:
@@ -3928,7 +3928,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 8
           Condition:
@@ -3940,7 +3940,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 7
           Condition:
@@ -3952,7 +3952,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -3964,7 +3964,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -3976,7 +3976,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 1
           Condition:
@@ -3988,7 +3988,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 10
           Condition:
@@ -4000,7 +4000,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 9
           Condition:
@@ -4012,7 +4012,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 8
           Condition:
@@ -4024,7 +4024,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 7
           Condition:
@@ -4036,7 +4036,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -4048,7 +4048,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -4060,7 +4060,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 1
           Condition:
@@ -4072,7 +4072,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 10
           Condition:
@@ -4084,7 +4084,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 9
           Condition:
@@ -4096,7 +4096,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 8
           Condition:
@@ -4108,7 +4108,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 7
           Condition:
@@ -4120,7 +4120,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 6
           Condition:
@@ -4132,7 +4132,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 5
           Condition:
@@ -4144,7 +4144,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 1
           Condition:
@@ -4156,7 +4156,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 10
           Condition:
@@ -4168,7 +4168,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 9
           Condition:
@@ -4180,7 +4180,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 8
           Condition:
@@ -4192,7 +4192,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 7
           Condition:
@@ -4204,7 +4204,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 6
           Condition:
@@ -4216,7 +4216,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 5
           Condition:
@@ -4228,7 +4228,7 @@ Servers:
                     - FOY
                     - REMAGEN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 3
           Condition:
@@ -4237,11 +4237,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 4
           Condition:
@@ -4250,11 +4250,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 5
           Condition:
@@ -4263,11 +4263,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 6
           Condition:
@@ -4276,11 +4276,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 7
           Condition:
@@ -4289,11 +4289,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 8
           Condition:
@@ -4302,11 +4302,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 3
           Condition:
@@ -4315,11 +4315,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 4
           Condition:
@@ -4328,11 +4328,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 5
           Condition:
@@ -4341,11 +4341,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 6
           Condition:
@@ -4354,11 +4354,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 7
           Condition:
@@ -4367,11 +4367,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: B
           "Y": 8
           Condition:
@@ -4380,11 +4380,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 3
           Condition:
@@ -4393,11 +4393,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 4
           Condition:
@@ -4406,11 +4406,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 5
           Condition:
@@ -4419,11 +4419,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 6
           Condition:
@@ -4432,11 +4432,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 7
           Condition:
@@ -4445,11 +4445,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 8
           Condition:
@@ -4458,11 +4458,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 3
           Condition:
@@ -4471,11 +4471,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 4
           Condition:
@@ -4484,11 +4484,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 5
           Condition:
@@ -4497,11 +4497,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 6
           Condition:
@@ -4510,11 +4510,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 7
           Condition:
@@ -4523,11 +4523,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 8
           Condition:
@@ -4536,11 +4536,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 3
           Condition:
@@ -4549,11 +4549,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 4
           Condition:
@@ -4562,11 +4562,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -4575,11 +4575,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -4588,11 +4588,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 7
           Condition:
@@ -4601,11 +4601,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 8
           Condition:
@@ -4614,11 +4614,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 3
           Condition:
@@ -4627,11 +4627,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 4
           Condition:
@@ -4640,11 +4640,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -4653,11 +4653,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -4666,11 +4666,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 7
           Condition:
@@ -4679,11 +4679,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 8
           Condition:
@@ -4692,11 +4692,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 3
           Condition:
@@ -4705,11 +4705,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 4
           Condition:
@@ -4718,11 +4718,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 5
           Condition:
@@ -4731,11 +4731,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 6
           Condition:
@@ -4744,11 +4744,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 7
           Condition:
@@ -4757,11 +4757,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 8
           Condition:
@@ -4770,11 +4770,11 @@ Servers:
                     - Warfare
                 map_name:
                     - CARENTAN
-                    - HILL 500
+                    - HILL 300
                     - HÜRTGEN FOREST
                     - MORTAIN
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 3
           Condition:
@@ -4789,7 +4789,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 4
           Condition:
@@ -4804,7 +4804,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 5
           Condition:
@@ -4819,7 +4819,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 6
           Condition:
@@ -4834,7 +4834,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 7
           Condition:
@@ -4849,7 +4849,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: J
           "Y": 8
           Condition:
@@ -4864,7 +4864,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 3
           Condition:
@@ -4879,7 +4879,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 4
           Condition:
@@ -4894,7 +4894,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 5
           Condition:
@@ -4909,7 +4909,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 6
           Condition:
@@ -4924,7 +4924,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 7
           Condition:
@@ -4939,7 +4939,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: I
           "Y": 8
           Condition:
@@ -4954,7 +4954,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 3
           Condition:
@@ -4969,7 +4969,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 4
           Condition:
@@ -4984,7 +4984,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 5
           Condition:
@@ -4999,7 +4999,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 6
           Condition:
@@ -5014,7 +5014,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 7
           Condition:
@@ -5029,7 +5029,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 8
           Condition:
@@ -5044,7 +5044,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 3
           Condition:
@@ -5059,7 +5059,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 4
           Condition:
@@ -5074,7 +5074,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 5
           Condition:
@@ -5089,7 +5089,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 6
           Condition:
@@ -5104,7 +5104,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 7
           Condition:
@@ -5119,7 +5119,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 8
           Condition:
@@ -5134,7 +5134,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 3
           Condition:
@@ -5149,7 +5149,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 4
           Condition:
@@ -5164,7 +5164,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -5179,7 +5179,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -5194,7 +5194,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 7
           Condition:
@@ -5209,7 +5209,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 8
           Condition:
@@ -5224,7 +5224,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 3
           Condition:
@@ -5239,7 +5239,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 4
           Condition:
@@ -5254,7 +5254,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -5269,7 +5269,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -5284,7 +5284,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 7
           Condition:
@@ -5299,7 +5299,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 8
           Condition:
@@ -5314,7 +5314,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 3
           Condition:
@@ -5329,7 +5329,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 4
           Condition:
@@ -5344,7 +5344,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 5
           Condition:
@@ -5359,7 +5359,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 6
           Condition:
@@ -5374,7 +5374,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 7
           Condition:
@@ -5389,7 +5389,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: A
           "Y": 8
           Condition:
@@ -5404,7 +5404,7 @@ Servers:
                     - TOBRUK
                     - UTAH BEACH
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 1
           Condition:
@@ -5418,7 +5418,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 2
           Condition:
@@ -5432,7 +5432,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 3
           Condition:
@@ -5446,7 +5446,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 4
           Condition:
@@ -5460,7 +5460,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 5
           Condition:
@@ -5474,7 +5474,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 6
           Condition:
@@ -5488,7 +5488,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: C
           "Y": 10
           Condition:
@@ -5502,7 +5502,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 1
           Condition:
@@ -5516,7 +5516,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 2
           Condition:
@@ -5530,7 +5530,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 3
           Condition:
@@ -5544,7 +5544,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 4
           Condition:
@@ -5558,7 +5558,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 5
           Condition:
@@ -5572,7 +5572,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 6
           Condition:
@@ -5586,7 +5586,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: D
           "Y": 10
           Condition:
@@ -5600,7 +5600,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 1
           Condition:
@@ -5614,7 +5614,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 2
           Condition:
@@ -5628,7 +5628,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 3
           Condition:
@@ -5642,7 +5642,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 4
           Condition:
@@ -5656,7 +5656,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 5
           Condition:
@@ -5670,7 +5670,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 6
           Condition:
@@ -5684,7 +5684,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: E
           "Y": 10
           Condition:
@@ -5698,7 +5698,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 1
           Condition:
@@ -5712,7 +5712,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 2
           Condition:
@@ -5726,7 +5726,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 3
           Condition:
@@ -5740,7 +5740,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 4
           Condition:
@@ -5754,7 +5754,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 5
           Condition:
@@ -5768,7 +5768,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 6
           Condition:
@@ -5782,7 +5782,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: F
           "Y": 10
           Condition:
@@ -5796,7 +5796,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 1
           Condition:
@@ -5810,7 +5810,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 2
           Condition:
@@ -5824,7 +5824,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 3
           Condition:
@@ -5838,7 +5838,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 4
           Condition:
@@ -5852,7 +5852,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 5
           Condition:
@@ -5866,7 +5866,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 6
           Condition:
@@ -5880,7 +5880,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: G
           "Y": 10
           Condition:
@@ -5894,7 +5894,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 1
           Condition:
@@ -5908,7 +5908,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 2
           Condition:
@@ -5922,7 +5922,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 3
           Condition:
@@ -5936,7 +5936,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 4
           Condition:
@@ -5950,7 +5950,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 5
           Condition:
@@ -5964,7 +5964,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 6
           Condition:
@@ -5978,7 +5978,7 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
         - X: H
           "Y": 10
           Condition:
@@ -5992,4 +5992,4 @@ Servers:
                     - PURPLE HEART LANE
                     - ST MARIE DU MONT
             LessThan:
-                player_count: 50
+                player_count: 30
