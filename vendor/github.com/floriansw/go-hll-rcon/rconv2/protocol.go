@@ -229,6 +229,9 @@ func (r *socket) reconnect(orig error) error {
 	}
 	r.reconnectCount++
 	con, err := makeConnectionV2(r.host, r.port)
+	if err != nil {
+		return fmt.Errorf("connection failed: %w, original error: %v", err, orig)
+	}
 	r.con = con
 	err = r.SetContext(r.Context())
 	if err != nil {
